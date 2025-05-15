@@ -1,0 +1,6 @@
+socket 
+subprocess  
+os
+arabic_reshaper
+threading
+colorama
