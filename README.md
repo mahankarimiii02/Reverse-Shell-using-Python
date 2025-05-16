@@ -1,4 +1,4 @@
-# A simple ReverseShell created in Python 
+# A simple Reverse Shell created in Python 
 
 # Details 
 1. We have 3 files here 
