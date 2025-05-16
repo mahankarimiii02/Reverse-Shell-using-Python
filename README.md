@@ -24,7 +24,9 @@
 
 1. Download and extract the zip file
 2. Go to downloaded file' path and in terminal run :
- ```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 4. In all 3 ```.py``` files put the ip address and port number (Default is 127.0.0.1:12345)
 5. Save the changes
 6. Before you run the two client files, make sure that the ```server.py``` is running so they can connect to server
