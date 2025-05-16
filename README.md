@@ -23,7 +23,7 @@
 # Installation 
 
 1. Download and extract the zip file
-2. Go to downloaded file' path and in terminal run :
+2. Go to downloaded file' path and in terminal run : 
 ```pip install -r requirements.txt```
 3. In all 3 ```.py``` files put the ip address and port number (Default is 127.0.0.1:12345)
 4. Save the changes
