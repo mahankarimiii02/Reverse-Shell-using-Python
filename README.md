@@ -30,3 +30,6 @@ pip install -r requirements.txt
 4. In all 3 ```.py``` files put the ip address and port number (Default is 127.0.0.1:12345)
 5. Save the changes
 6. Before you run those two client files, make sure that ```server.py``` is running so they can connect to server
+
+# Warning 
+This is only for educational purposes, any abusement is out of my responsibility
