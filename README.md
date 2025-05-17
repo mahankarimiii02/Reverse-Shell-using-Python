@@ -13,11 +13,11 @@
     - Reverse Shell : run terminal commands 
     - Close connection : if for any reason you wanted to close the ```target``` connection (to server) choose this option
 
-3. Because of EDR Evaluation, the target file doesn't run the command directly ... it creates a .bat file incluidng the commands and then runs the .bat file 
+3. Because of EDR Evaluation, the target file doesn't run the command directly ... it creates a .bat file including the commands and then runs the .bat file 
 
 4. Because of Persian language, i used ```arabic_reshaper``` library to show the paths, directories, etc in the correct way
 
-5. If you wanted to convert the ```.py``` to ```.exe``` make sure to use some obfuscation ... without obfuscation it will be detected as a malicious file 
+5. If you want to convert the ```.py``` to ```.exe``` make sure to use some obfuscation ... without obfuscation it will be detected as a malicious file 
 
 
 # Installation 
